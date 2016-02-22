@@ -1,0 +1,17 @@
+*{
+  -webkit-font-smoothing: antialised;
+  -mac-osx-font-smoothing: greyscale;
+  box-sizing: border-box;
+}
+html{
+  font-family: "Arial";
+}
+h1{
+  text-align: center;
+}
+.project-name{
+  text-align: center;
+}
+.view-input{
+  text-align: center;
+}
